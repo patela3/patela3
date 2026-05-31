@@ -1,5 +1,8 @@
 ## Hi there 👋
+**Hello! I'm Arya.**
+I'm a President's Scholar at the University of Maryland, College Park studying Computer Science. I have an interest in AI + ML, music technology, and FinTech.
 
+I have a few of my projects here on my GitHub. If any of them seem interesting, and you have any questions feel free to reach out at aryajaypatel2005@gmail.com
 <!--
 **patela3/patela3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
